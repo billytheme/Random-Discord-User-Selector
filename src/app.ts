@@ -1,6 +1,5 @@
 import * as discord from "discord.js"
 import * as dotenv from "dotenv";
-import { SSL_OP_SSLEAY_080_CLIENT_DH_BUG } from "constants";
 
 //Generic command to initialise the dotenv library
 dotenv.config();
